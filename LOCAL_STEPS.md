@@ -1,0 +1,6 @@
+- CTRL+ALT+SHIFT+S -> Project structure
+- graal-vm-ce-17
+- project-level-17 (!)
+---
+- File -> Invalidate caches and restart
+- Maven scripts found - load maven script
