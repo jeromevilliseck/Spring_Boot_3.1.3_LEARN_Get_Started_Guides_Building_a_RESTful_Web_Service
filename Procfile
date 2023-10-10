@@ -1,0 +1,1 @@
+web java -Dserver.port=$PORT $JAVA_OPTS -jar target/guides-0.0.1-SNAPSHOT.jar
